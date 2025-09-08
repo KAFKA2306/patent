@@ -1,5 +1,15 @@
 # patent
 
+Patent analysis snippets for collecting data and comparing claims using
+public APIs.
+
+## Repository structure
+
+- `src/` – Python modules for data collection and claim comparison.
+- `notebooks/` – Demonstration notebooks.
+- `docs/` – Additional documentation.
+
+
 
 いいですね。「OPS（EPO）／The Lens APIで“機械化→要点サマリ＋クレーム比較”」の“実務でそのまま使える”ミニ事例を3つ出します。すべてWindows10＋VSCode＋Python前提、公開API仕様に沿ったコード断片つきです。
 
